@@ -1,1 +1,1 @@
-# -SQL-vs-Excel---Adidas-Sales-Performance
+# SQL vs Excel---Adidas-Sales-Performance
