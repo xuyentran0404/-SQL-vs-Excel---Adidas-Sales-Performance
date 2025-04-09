@@ -54,7 +54,7 @@ In this project, I write **9 SQL queries** in SQL Server Management Studio to ex
 ![image](https://github.com/user-attachments/assets/50e50636-3b48-407b-a254-02414f895f28)
 
 - Query results
-![image](https://github.com/user-attachments/assets/8cd89c78-1eda-4b3c-8acd-f6042f71f749)
+![image](https://github.com/user-attachments/assets/32068081-9107-4425-a4ea-407b88ea8e5a)
 
 ## 4. Data Visualization
 **Overview Dashboard**  
