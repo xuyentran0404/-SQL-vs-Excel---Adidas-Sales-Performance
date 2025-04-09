@@ -24,6 +24,9 @@ In this project, I write **9 SQL queries** in SQL Server Management Studio to ex
 > ### ✅ Query 01: Seasonal Sales Trend Analysis  
 What are the total units sold, revenue, total cost, total profit, and profit margin for each month in 2020–2021?
 
-- **SQL Code**  
+- **SQL Code**
+![image](https://github.com/user-attachments/assets/5b78229e-77e6-492d-b92f-99b2e0d851b6)
+
 - **Query result**  
+![image](https://github.com/user-attachments/assets/35ecfeb2-40c3-4599-9ff5-cddf4eef1cb1)
 
