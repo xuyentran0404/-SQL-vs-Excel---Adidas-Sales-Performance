@@ -60,10 +60,7 @@ In this project, I write **9 SQL queries** in SQL Server Management Studio to ex
 - Overview Dashboard
 - Product Dashboard
 ## 5. Insights
-- Seasonal Sales Trend Analysis: 
-+ Significant revenue and profit growth observed in the second half of 2021, with December reaching the highest figures ($77.8M in revenue and $28.9M in profit).
-+ Profit margins improved notably in 2021, ranging from 34.8% to 40.2%, indicating better cost efficiency.
-+ June 2020 recorded the lowest performance, with both revenue and profit at their minimum.
+- Seasonal Sales Trend Analysis: Significant revenue and profit growth observed in the second half of 2021, with December reaching the highest figures ($77.8M in revenue and $28.9M in profit). Profit margins improved notably in 2021, ranging from 34.8% to 40.2%, indicating better cost efficiency. June 2020 recorded the lowest performance, with both revenue and profit at their minimum.
 - Men’s Street Footwear leads in both revenue ($208.8M) and profit ($82.8M), with the highest margin (40%). Women's Apparel follows closely with strong revenue ($179M) and high profitability (38%).
 - Men’s Street Footwear also ranks #1 in all regions for revenue, with strong profit margins (37–42%). 
 
