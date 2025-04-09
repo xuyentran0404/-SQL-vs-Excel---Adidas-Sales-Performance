@@ -21,7 +21,7 @@ The primary goal is to extract data-driven insights that can support decision-ma
 
 In this project, I write **9 SQL queries** in SQL Server Management Studio to explore insights from the database:
 
-> ### ✅ Query 01: Seasonal Sales Trend Analysis  
+Query 01: Seasonal Sales Trend Analysis  
 What are the total units sold, revenue, total cost, total profit, and profit margin for each month in 2020–2021?
 
 - **SQL Code**
