@@ -58,7 +58,10 @@ In this project, I write **9 SQL queries** in SQL Server Management Studio to ex
 
 ## 4. Data Visualization
 **Overview Dashboard**  
+![image](https://github.com/user-attachments/assets/4755907d-641e-4bf3-b826-927123b53519)
+
 **Product Dashboard**
+![image](https://github.com/user-attachments/assets/df849bf9-3bad-4d3e-93df-05ee52565fa9)
 
 ## 5. Insights
 - **Seasonal Sales Trend Analysis**: Significant revenue and profit growth observed in the second half of 2021, with December reaching the highest figures (**$77.8M** in revenue and **$28.9M** in profit). Profit margins improved notably in 2021, ranging from **34.8%** to **40.2%**, indicating better cost efficiency. June 2020 recorded the lowest performance, with both revenue and profit at their minimum.
