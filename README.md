@@ -2,14 +2,14 @@
 
 ---
 
-## 1. 📌 Dataset Overview
+## 1. Introduction
 
 In this project, we analyze sales data from Adidas to gain insights into product performance, regional trends, and operational efficiency.  
 The primary goal is to extract data-driven insights that can support decision-making in marketing, inventory planning, and sales strategy.
 
 ---
 
-## 2. 📂 Database Access
+## 2. Database Access
 
 - **Dataset**: Adidas Sales Data (CSV format)  
 - **Source**: Internal company export / online resource *(replace with your actual source if needed)*  
@@ -17,7 +17,7 @@ The primary goal is to extract data-driven insights that can support decision-ma
 
 ---
 
-## 3. 🔍 Exploring the Dataset
+## 3. Exploring the Dataset
 
 In this project, I write **9 SQL queries** in SQL Server Management Studio to explore insights from the database:
 
