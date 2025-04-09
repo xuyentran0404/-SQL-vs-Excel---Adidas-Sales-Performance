@@ -57,16 +57,16 @@ In this project, I write **9 SQL queries** in SQL Server Management Studio to ex
 ![image](https://github.com/user-attachments/assets/8cd89c78-1eda-4b3c-8acd-f6042f71f749)
 
 ## 4. Data Visualization
-**Overview Dashboard**
+**Overview Dashboard**  
 **Product Dashboard**
 
 ## 5. Insights
-- **Seasonal Sales Trend Analysis**: Significant revenue and profit growth observed in the second half of 2021, with December reaching the highest figures ($77.8M in revenue and $28.9M in profit). Profit margins improved notably in 2021, ranging from 34.8% to 40.2%, indicating better cost efficiency. June 2020 recorded the lowest performance, with both revenue and profit at their minimum.
-- **Men’s Street Footwear** leads in both revenue ($208.8M) and profit ($82.8M), with the highest margin (40%). Women's Apparel follows closely with strong revenue ($179M) and high profitability (38%).
+- **Seasonal Sales Trend Analysis**: Significant revenue and profit growth observed in the second half of 2021, with December reaching the highest figures (**$77.8M** in revenue and **$28.9M** in profit). Profit margins improved notably in 2021, ranging from **34.8%** to **40.2%**, indicating better cost efficiency. June 2020 recorded the lowest performance, with both revenue and profit at their minimum.
+- **Men’s Street Footwear** leads in both revenue (**$208.8M**) and profit ($82.8M), with the highest margin (**40%**). **Women's Apparel** follows closely with strong revenue (**$179M**) and high profitability (**38%**).
 - **Men’s Street Footwear** also ranks #1 in all regions for revenue, with strong profit margins (37–42%). 
 
 ## 6. Recommendations
-- **Seasonal Sales Trend Analysis**: Prioritize investment during peak months (May–December) through increased marketing and inventory planning. Implement promotional strategies in off-peak months (e.g., June) to stimulate demand and reduce idle inventory. Sustain and enhance profit margins by expanding high-margin product lines and maintaining cost discipline.
-- Continue promoting top-performing categories, especially Men’s Street Footwear and Women’s Apparel. 
-- Prioritize Men’s Street Footwear in all regions due to its top revenue and solid profitability.
-- Expand Women's Apparel marketing in the South and Southeast, where margins are especially strong.
+- **Seasonal Sales Trend Analysis**: Prioritize investment during peak months **(May–December)** through increased marketing and inventory planning. Implement promotional strategies in off-peak months **(e.g., June)** to stimulate demand and reduce idle inventory. Sustain and enhance profit margins by expanding high-margin product lines and maintaining cost discipline.
+- Continue promoting top-performing categories, especially **Men’s Street Footwear** and **Women’s Apparel**. 
+- Prioritize **Men’s Street Footwear** in all regions due to its top revenue and solid profitability.
+- Expand **Women's Apparel** marketing in **the South** and **Southeast**, where margins are especially strong.
