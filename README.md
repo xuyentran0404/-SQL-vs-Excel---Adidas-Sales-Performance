@@ -1,4 +1,4 @@
-# [SQL vs Excel] Adidas Sales Performance Insights
+# [SQL vs Excel] Unveiling the Adidas Sales Database 2020/2021
 
 ---
 
@@ -27,33 +27,43 @@ In this project, I write **9 SQL queries** in SQL Server Management Studio to ex
 - Query results
 ![image](https://github.com/user-attachments/assets/35ecfeb2-40c3-4599-9ff5-cddf4eef1cb1)
 
-**Query 02: Identify which products to promote, review, or retire based on their sales volume and profitability.**
+**Query 02: Retrieve sales quantity, profit of each product by month, and product ranking by total_sold for each month.**
 - SQL code
-![image](https://github.com/user-attachments/assets/19fdfab8-cc96-4906-9541-bf2851267cf1)
+![image](https://github.com/user-attachments/assets/1a527336-45ea-4811-9722-a0ae6308fe9a)
+
 
 - Query results
-![image](https://github.com/user-attachments/assets/dc02f058-3ee8-4a8a-88e8-ec00c3d76826)
+![image](https://github.com/user-attachments/assets/e90d79ea-e49c-4c3c-b662-7655128f6aa9)
 
-**Query 03: Top 3 highest revenue products in each region.**
+
+**Query 03: Calculate total Sales, Units Sold, Profit, Cost by product, order by revenue .**
 - SQL code
-![image](https://github.com/user-attachments/assets/70b98a1d-044a-4785-b93c-e2aa67ca1766)
+![image](https://github.com/user-attachments/assets/702636b3-a5ec-48c4-b801-f4514a451f3f)
 
 - Query results
-![image](https://github.com/user-attachments/assets/8fa75ca6-f0ec-4f53-8a4f-feddab34028c)
+![image](https://github.com/user-attachments/assets/def01d5b-6741-4d44-a6b8-bb868cf158c0)
 
-**Query 04: Retailer Performance Ranking.**
+**Query 04: Top 3 highest revenue products in each region.**
 - SQL code
-![image](https://github.com/user-attachments/assets/60559108-bf35-4df7-972e-d8b9697194f9)
+![image](https://github.com/user-attachments/assets/2a01b056-98b3-4562-a4f9-b362c13d642b)
 
 - Query results
-![image](https://github.com/user-attachments/assets/f60ad8e3-36d0-498d-b451-ecbcc41f5b67)
+![image](https://github.com/user-attachments/assets/96fe6060-e846-4390-b715-6e679873e123)
 
-**Query 05: Sales_Method Performance Ranking .**
+**Query 05: Retailer Performance Ranking.**
 - SQL code
-![image](https://github.com/user-attachments/assets/50e50636-3b48-407b-a254-02414f895f28)
+![image](https://github.com/user-attachments/assets/38c8665e-b9bd-456f-bceb-2b07b7a3fca5)
 
 - Query results
-![image](https://github.com/user-attachments/assets/32068081-9107-4425-a4ea-407b88ea8e5a)
+![image](https://github.com/user-attachments/assets/e6608dcb-6d39-487e-a46c-ab1df0f6ea66)
+
+**Query 06: Sales_Method Performance Ranking .**
+- SQL code
+![image](https://github.com/user-attachments/assets/47df321f-4a52-47f6-9104-a58c48fb63f4)
+
+- Query results
+![image](https://github.com/user-attachments/assets/3d08acc3-5df8-4e9e-89c9-9e3d936437d8)
+
 
 ## 4. Data Visualization
 **Overview Dashboard**  
