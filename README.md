@@ -16,7 +16,7 @@ In this project, we analyze sales data from Adidas to gain insights into product
 
 ---
 
-## 3. Exploring the Dataset
+## 3. Exploring the Database
 
 In this project, I write **06 SQL queries** in SQL Server Management Studio to explore insights from the database:   
 **Objective**:  
