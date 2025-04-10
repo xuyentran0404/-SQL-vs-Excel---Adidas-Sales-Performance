@@ -18,7 +18,7 @@ In this project, we analyze sales data from Adidas to gain insights into product
 
 ## 3. Exploring the Dataset
 
-In this project, I write **6 SQL queries** in SQL Server Management Studio to explore insights from the database:   
+In this project, I write **06 SQL queries** in SQL Server Management Studio to explore insights from the database:   
 **Objective**:  
 - What are the total_sold, total_revenue, total_cost and total_profit for 2020/2021?
 - Are products sold seasonally (in terms of sales volume and profit), and which products sell best each month?
