@@ -4,8 +4,7 @@
 
 ## 1. Introduction
 
-In this project, we analyze sales data from Adidas to gain insights into product performance, regional trends, and operational efficiency.  
-The primary goal is to extract data-driven insights that can support decision-making in marketing, inventory planning, and sales strategy.
+In this project, we analyze sales data from Adidas to gain insights into product performance, regional trends, and operational efficiency. The primary goal is to extract data-driven insights that can support decision-making in marketing, inventory planning, and sales strategy.
 
 ---
 
