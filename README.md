@@ -18,7 +18,15 @@ In this project, we analyze sales data from Adidas to gain insights into product
 
 ## 3. Exploring the Dataset
 
-In this project, I write **9 SQL queries** in SQL Server Management Studio to explore insights from the database:
+In this project, I write **6 SQL queries** in SQL Server Management Studio to explore insights from the database:   
+**Objective**:  
+- What are the total_sold, total_revenue, total_cost and total_profit for 2020/2021?
+- Are products sold seasonally (in terms of sales volume and profit), and which products sell best each month?
+- Overall, which products were the best-selling by revenue in both 2020 and 2021?
+- Which products are best sellers in each region?
+- Which retailer has the highest and lowest sales?
+- Which sales method (e.g., online, in-store) is more effective in terms of sales and profit?
+
 
 **Query 01: Seasonal Sales Trend Analysis. Calculate total units sold, revenue, total cost, total profit, and profit margin for each month in 2020–2021.**
 -  SQL code 
